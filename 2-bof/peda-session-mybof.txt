@@ -1,0 +1,2 @@
+break /home/segogt/CTF/pwnable/2-bof/bof.c:8
+
